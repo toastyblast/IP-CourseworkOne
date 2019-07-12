@@ -1,7 +1,7 @@
 # IP-CourseworkOne
 Code made by Yoran Kerbusch for Edge Hill University course CIS3149 Interface Programming 2018-2019 for coursework 1
 
-This is a Python code coursework project that has students test and play with OpenCV and OpenPose body recognition.
+This is a Python code coursework project that has students test and play with OpenCV and OpenPose body recognition. This code was made by Yoran Kerbusch for Edge Hill University third-year course CIS3149 Interface Programming 2018-2019 as part of my International Minor, for that course's coursework 1: An individual code portfolio.
 
 WARNING: To use these files, you are required to do the following:
 - Download OpenPose from https://github.com/CMU-Perceptual-Computing-Lab/openpose/releases;
@@ -11,8 +11,6 @@ I RECOMMEND TO USE THE GPU VERSION (faster, more precize and less crash-prone), 
 - Drop the files from this repository into that folder;
 - Open the files with your Python editor of choice (I made & tested this code with Spyder 3.3.3);
 - Click run on the file of your choice to see it run.
-
-This code was made for assignments given at Edge Hill University for second-year class CIS2160 Computer Graphics & Moddeling, during 2018-2019.
 
 The final grade I received for this portfolio of code I made for the assignment is 95.0%, and it was originally completed by me at 7-3-2019 (7th of March, 2019).
 
